@@ -1,6 +1,6 @@
 # cuaca_jogja
 
-A new Flutter project.
+Project Tiga dari Mata Kuliah Framework Mobile : Menampilkan Data dari Internet dengan Flutter. 
 
 ## Getting Started
 
